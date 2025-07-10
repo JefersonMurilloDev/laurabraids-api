@@ -186,7 +186,7 @@ La API utiliza códigos de estado HTTP estándar:
 
 Este proyecto está bajo la Licencia ISC.
 
-## 👥 Autor
+## 👥 Jefferson Murillo
 
 Desarrollado para LauraBraids - Servicios profesionales de trenzas y peinados africanos.
 
